@@ -2,6 +2,8 @@
 
 A Web Processing Service for the Copernicus Climate Data Store
 
+Carsten Ehbrecht, DKRZ
+
 OGC Member Meeting, 25 March 2021
 
 <img height="50" src="media/cc-license.png" alt="Creative Commons License"/>
@@ -40,7 +42,7 @@ CMIP6 is now live!
 
 <img height="400" src="media/cds-toolbox.png" alt="CDS download"/>
 ---
-## But
+## Climate Data Store - Data?
 
 The climate data is accessed remotely
 ---
@@ -51,7 +53,11 @@ The climate data is accessed remotely
 ---
 ## Climate data is big
 * A single dataset may have several Gigabytes
-* But you just want a month for a specific area
+* But you just want: Temperature, 1990, Africa
+---
+## Web Processing Service
+<img height="200" src="media/wps_adamsteer.png" alt="WPS"/>
+Call a function remotely
 ---
 ## Rook - WPS
 * An OGC Web Processing Service
@@ -61,27 +67,27 @@ The climate data is accessed remotely
 ---
 ## Rook - Operators
 * Subsetting - time, area, level
-* Averaging - time, area, level
+* Averaging - over dimensions (time, ...)
 * Regridding (a pain!)
+* ??? - can be extended
 ---
 ## Rook - Clisops
 * The Python library implementing these operators
 * Using xarray - low level library
-* Joined effort together with Ouranos
+* Joint effort together with Ouranos
 https://clisops.readthedocs.io/en/latest/
 ---
 ## Rooki
-<img height="400" src="media/rooki-demo.png" alt="Rooki Notebook"/>
----
-## Rooki - Library
 * Python WPS client - interactive or as library
 * Using OWSLib - GeoPython
-* Joined effort with Ouranos (birdy)
+* Joint effort with Ouranos (birdy)
 * https://rooki.readthedocs.io/en/latest/
 ---
+## Rooki - Notebook
+<img height="400" src="media/rooki-demo.png" alt="Rooki Notebook"/>
+---
 ## All together
-TODO: replace
-<img height="400" src="media/rook-cds.png" alt="Rook CDS"/>
+<img height="300" src="media/rook-4cds.png" alt="Rook for CDS"/>
 ---
 ## Projects
 * Coperniucs C3S: https://climate.copernicus.eu/
