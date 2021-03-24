@@ -67,7 +67,7 @@ The climate data is accessed remotely
 ## Rook - Clisops
 * The Python library implementing these operators
 * Using xarray - low level library
-* Joined effort together with Ouranos
+* Joint effort together with Ouranos
 https://clisops.readthedocs.io/en/latest/
 ---
 ## Rooki
@@ -76,7 +76,7 @@ https://clisops.readthedocs.io/en/latest/
 ## Rooki - Library
 * Python WPS client - interactive or as library
 * Using OWSLib - GeoPython
-* Joined effort with Ouranos (birdy)
+* Joint effort with Ouranos (birdy)
 * https://rooki.readthedocs.io/en/latest/
 ---
 ## All together
