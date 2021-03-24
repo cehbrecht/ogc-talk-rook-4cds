@@ -55,6 +55,10 @@ The climate data is accessed remotely
 * A single dataset may have several Gigabytes
 * But you just want: Temperature, 1990, Africa
 ---
+## Web Processing Service
+<img height="200" src="media/wps_adamsteer.png" alt="WPS"/>
+Call a function remotely
+---
 ## Rook - WPS
 * An OGC Web Processing Service
 * Using PyWPS - GeoPython
