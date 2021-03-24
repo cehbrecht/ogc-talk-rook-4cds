@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T21:17:42.038Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.5.1" etag="s38BWrnH7PfNWuCGT7oR" type="github"><diagram id="hgG7Qdo2X7Ybv8ByNUfq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-24T21:29:46.139Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="hYhSFPvuqcnKO_qDL7GH" version="14.5.1" type="github">
+  <diagram id="hgG7Qdo2X7Ybv8ByNUfq" name="Page-1">
+    <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-Eoq_LRY8Kr08JRgcB4u-1" value="&lt;b&gt;Python Client&lt;br&gt;(Rooki)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="640" y="90" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-Eoq_LRY8Kr08JRgcB4u-2" value="&lt;b&gt;WPS&lt;br&gt;(Rook)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Eoq_LRY8Kr08JRgcB4u-3" value="&lt;b&gt;Climate Data Operators&lt;br&gt;Python Library&lt;br&gt;(Clisops)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Eoq_LRY8Kr08JRgcB4u-4" value="&lt;b&gt;xarray&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Eoq_LRY8Kr08JRgcB4u-5" value="&lt;b&gt;Climate Data Pool&lt;br&gt;CMIP6&lt;br&gt;(netCDF)&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="90" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-Eoq_LRY8Kr08JRgcB4u-6" value="&lt;b&gt;Outputs&lt;br&gt;(netCDF)&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="415" y="10" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
