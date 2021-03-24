@@ -2,6 +2,8 @@
 
 A Web Processing Service for the Copernicus Climate Data Store
 
+Carsten Ehbrecht, DKRZ
+
 OGC Member Meeting, 25 March 2021
 
 <img height="50" src="media/cc-license.png" alt="Creative Commons License"/>
@@ -63,6 +65,7 @@ The climate data is accessed remotely
 * Subsetting - time, area, level
 * Averaging - over dimensions (time, ...)
 * Regridding (a pain!)
+* ??? - can be extended
 ---
 ## Rook - Clisops
 * The Python library implementing these operators
@@ -71,13 +74,13 @@ The climate data is accessed remotely
 https://clisops.readthedocs.io/en/latest/
 ---
 ## Rooki
-<img height="400" src="media/rooki-demo.png" alt="Rooki Notebook"/>
----
-## Rooki - Library
 * Python WPS client - interactive or as library
 * Using OWSLib - GeoPython
 * Joint effort with Ouranos (birdy)
 * https://rooki.readthedocs.io/en/latest/
+---
+## Rooki - Notebook
+<img height="400" src="media/rooki-demo.png" alt="Rooki Notebook"/>
 ---
 ## All together
 <img height="400" src="media/rook-cds.png" alt="Rook CDS"/>
