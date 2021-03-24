@@ -40,7 +40,7 @@ CMIP6 is now live!
 
 <img height="400" src="media/cds-toolbox.png" alt="CDS download"/>
 ---
-## But
+## Climate Data Store - Data?
 
 The climate data is accessed remotely
 ---
@@ -51,7 +51,7 @@ The climate data is accessed remotely
 ---
 ## Climate data is big
 * A single dataset may have several Gigabytes
-* But you just want a month for a specific area
+* But you just want: Temperature, 1990, Africa
 ---
 ## Rook - WPS
 * An OGC Web Processing Service
@@ -61,7 +61,7 @@ The climate data is accessed remotely
 ---
 ## Rook - Operators
 * Subsetting - time, area, level
-* Averaging - time, area, level
+* Averaging - over dimensions (time, ...)
 * Regridding (a pain!)
 ---
 ## Rook - Clisops
@@ -80,7 +80,6 @@ https://clisops.readthedocs.io/en/latest/
 * https://rooki.readthedocs.io/en/latest/
 ---
 ## All together
-TODO: replace
 <img height="400" src="media/rook-cds.png" alt="Rook CDS"/>
 ---
 ## Projects
