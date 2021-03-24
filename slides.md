@@ -87,7 +87,7 @@ https://clisops.readthedocs.io/en/latest/
 <img height="400" src="media/rooki-demo.png" alt="Rooki Notebook"/>
 ---
 ## All together
-<img height="400" src="media/rook-cds.png" alt="Rook CDS"/>
+<img height="300" src="media/rook-4cds.png" alt="Rook for CDS"/>
 ---
 ## Projects
 * Coperniucs C3S: https://climate.copernicus.eu/
